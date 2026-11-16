@@ -59,6 +59,11 @@ h1 {
    text-align: center;
 }
 
+/* Dark mode heading */
+[data-theme="dark"] h1 {
+    color: #ffffff;
+}
+
 .calculator {
   width: 100%;
   max-width: 340px;
